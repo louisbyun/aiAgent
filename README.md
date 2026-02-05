@@ -5,7 +5,7 @@ The project demonstrates how to design, orchestrate, and serve a modern **LLM-po
 
 The system is deployed on **AWS EC2 (Ubuntu 24.04 LTS)** and integrates:
 
-- **Google Gemini 1.5 Flash** as the core language model  
+- **Google Gemini 3.0 Flash** as the core language model  
 - **Flowise AI** as the agent orchestration and memory layer  
 - **Node.js / Express** as the backend API gateway  
 - A lightweight **HTML/CSS floating chat UI** for user interaction  
@@ -60,7 +60,7 @@ This separation makes the system extensible, debuggable, and production-friendly
 - Ubuntu 24.04 LTS
 
 ### AI & Orchestration
-- Google Gemini 1.5 Flash
+- Google Gemini 3.0 Flash
 - Flowise AI
   - Conversation chains
   - Memory nodes
