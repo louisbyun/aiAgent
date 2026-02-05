@@ -35,7 +35,7 @@ The demo features a floating chat widget connected to a live Gemini-powered agen
 
 - Deploy a real AI Agent on cloud infrastructure (AWS EC2)
 - Separate **LLM logic**, **API layer**, and **frontend UI**
-- Enable **memory-aware conversations**
+- Enable **memory-aware conversations** and **RAG for context-aware responses**
 - Use low-code AI tooling without hiding system architecture
 - Provide a reproducible reference for AI agent deployment
 
