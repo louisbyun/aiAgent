@@ -8,7 +8,10 @@ The system is deployed on **AWS EC2 (Ubuntu 24.04 LTS)** and integrates:
 - **Google Gemini 3.0 Flash** as the core language model  
 - **Flowise AI** as the agent orchestration and memory layer  
 - **Node.js / Express** as the backend API gateway  
-- A lightweight **HTML/CSS floating chat UI** for user interaction  
+- A lightweight **HTML/CSS floating chat UI** for user interaction
+<p align="center">
+  <img src="/flowise-main.png" alt="AI Agent Flowise" width="1000">
+</p>
 
 This project is intentionally built to resemble a **production-style AI service**, not a local demo or notebook experiment.
 
