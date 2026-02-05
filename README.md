@@ -76,10 +76,16 @@ This separation makes the system extensible, debuggable, and production-friendly
 
 ---
 
+### 📁 Project Structure
+
+The project is organized with a clear separation between the backend server and the frontend assets.
+
+```text
 /home/ai-agent
- ├── app.js
- ├── package.json
- └── public/
-     ├── index.html
-     ├── style.css
-     └── script.js
+├── app.js
+├── package.json
+└── public/
+    ├── index.html
+    ├── style.css
+    └── script.js
+
