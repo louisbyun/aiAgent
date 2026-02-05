@@ -21,7 +21,7 @@ A live instance of the AI Agent is publicly available:
 👉 **http://18.219.123.65:3000/**
 
 <p align="center">
-  <img src="/Front-page.png" alt="Dashboard" width="1000">
+  <img src="/Frontend-page.png" alt="AI Agent Frontend" width="1000">
 </p>
 
 The demo features a floating chat widget connected to a live Gemini-powered agent through Flowise.
