@@ -20,9 +20,7 @@ This project is intentionally built to resemble a **production-style AI service*
 ## 🔗 Live Demo
 
 A live instance of the AI Agent is publicly available:
-
-👉 **http://18.219.123.65:3000/**
-
+Expired now.
 <p align="center">
   <img src="/Frontend-page.png" alt="AI Agent Frontend" width="1000">
 </p>
